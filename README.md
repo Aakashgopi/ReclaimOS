@@ -1,8 +1,31 @@
-# ReclaimOS
-Science-backed Android launcher that transforms your phone from a distraction machine into a tool for growth, mindfulness, and intentional living.
+# Reclaim
 
-Modern smartphones are optimized to capture attention, maximize engagement, and encourage endless consumption. Reclaim takes a different approach.
+Turn your phone into a mentor, not a distraction.
 
-Reclaim is an open-source, science-backed Android launcher designed to help people build awareness, focus, and intentional digital habits. Instead of competing for attention, it guides users toward meaningful actions, personal growth, mindful technology use, and a fulfilling life.
+Reclaim is an open-source, science-backed Android launcher that helps people use technology intentionally and build a more mindful, focused, and fulfilling life.
 
-Our goal is simple: transform the phone from a distraction machine into a trusted companion for learning, reflection, creativity, and purposeful living.
+## Vision
+
+Modern smartphones are optimized for engagement.
+
+Reclaim is optimized for human flourishing.
+
+We believe technology should help people:
+
+- Focus deeply
+- Learn continuously
+- Build healthy habits
+- Live intentionally
+- Grow into their best selves
+
+## Principles
+
+- Science-backed design
+- No dark patterns
+- Privacy first
+- Open source forever
+- Human attention comes first
+
+## Status
+
+🚧 Early development
